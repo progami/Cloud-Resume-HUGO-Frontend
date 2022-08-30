@@ -1,0 +1,172 @@
+# banner
+banner:
+  title : "Hi! I’m Jarrar <br> DevOps Engineer"
+
+# about
+about:
+  enable : true
+  content : "I design and write about simple scalable processes utilizing DevOps methodlogies"
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "AWS"
+      progress : "100%"
+      color : "#F4B324"
+      
+    - title : "CI/CD"
+      progress : "100%"
+      color : "#0076BF"
+      
+    - title : "Infrastructure as Code"
+      progress : "100%"
+      color : "#F4B324"
+      
+    - title : "Container Orechestration"
+      progress : "100%"
+      color : "#0076BF"
+
+    - title : "Config Management"
+      progress : "100%"
+      color : "#F4B324"
+
+    - title : "Logging"
+      progress : "100%"
+      color : "#0076BF"
+
+    - title : "Planning / Tracking"
+      progress : "100%"
+      color : "#F4B324"
+
+    - title : "Scripting"
+      progress : "100%"
+      color : "#0076BF"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Python Developer"
+      company : "Upwork"
+      duration : "Aug 2017 - Mar 2018"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Machine Learning Engineer"
+      company : "Upwork"
+      duration : "Apr 2018 - Oct 2018"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Software Developer"
+      company : "Pak Army"
+      duration : "Nov 2018 - May 2022"
+
+    - logo : "images/experience/icon-2.png"
+      title : "Software Developer"
+      company : "Pak Army"
+      duration : "Nov 2018 - May 2022"
+
+    - logo : "images/experience/icon-3.png"
+      title : "Cloud/DevOps Engineer"
+      company : "Upwork"
+      duration : "Jun 2022 - Present"
+    
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Bachelors in Computer Engineering"
+      year : "2014 - 2018"
+      academy : "Masassusets Institute of Technology"
+      
+    - title : "AWS Certified Solution Architect (SAA-C02)"
+      year : "2022"
+      academy : "AWS"
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : true
+  title : "Testimonials"
+  item:
+    - name : "Ammar Amjad"
+      image : "images/testimonial/gul.jpeg"
+      designation : "MS CS Student at UFL | ex IBM Data Scientist - Data Engineer | GCP Microsoft Certified"
+      content : "We collaborated together to architect and deliver the AI driven Crypto Currency Trading Bot.
+      I found Jarrar to be diligent, going deep into problems while being industrious enough to always deliver ahead of deadlines.
+      The balance is something I myself struggle with but Jarrar has proven himself to be most reliable."
+      
+# client logo slider
+clients_logo_slider:
+  enable : true
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
