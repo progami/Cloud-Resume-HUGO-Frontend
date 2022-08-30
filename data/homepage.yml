@@ -53,7 +53,7 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "images/experience/icon-1.png"
+    - logo : "images/experience/icon-2.png"
       title : "Python Developer"
       company : "Upwork"
       duration : "Aug 2017 - Mar 2018"
@@ -63,11 +63,6 @@ experience:
       company : "Upwork"
       duration : "Apr 2018 - Oct 2018"
       
-    - logo : "images/experience/icon-1.png"
-      title : "Software Developer"
-      company : "Pak Army"
-      duration : "Nov 2018 - May 2022"
-
     - logo : "images/experience/icon-2.png"
       title : "Software Developer"
       company : "Pak Army"
@@ -86,7 +81,7 @@ education:
   item:
     - title : "Bachelors in Computer Engineering"
       year : "2014 - 2018"
-      academy : "Masassusets Institute of Technology"
+      academy : "National University of Science and Technology, NUST, Pakistan"
       
     - title : "AWS Certified Solution Architect (SAA-C02)"
       year : "2022"
@@ -97,19 +92,19 @@ service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "AWS Cloud"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : ""
       highlighted : false
 
-    - title : "UX Design"
+    - title : "DevOps"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : ""
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Python Development"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : ""
       highlighted : false
 
 # portfolio
