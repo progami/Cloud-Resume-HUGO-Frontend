@@ -1,30 +1,24 @@
 ---
-title: "Artwork Design"
+title: "Logistics Optimization System"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-8.png"
-client: "John Doe"
+image: "images/portfolio/MA.png"
+client: "Pak Army"
 project_url : "https://themefisher.com/"
 categories: ["illustration","development"]
-description: "This is meta description."
+description: "Logistics Optimization System"
 draft: false
 ---
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+- Logistics system based on graphs to suggest the most optimal path
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Architected logistics movement plan based on graph network
+Intelligent routing for up to 5000 vehicles tested
+Various land barriers factored in (weighted graphs)
+Coded in Python with the help of networkx, osmnx, and pandas
+Output dynamic routes based on a multitude of factors
+Skills: Python, Pandas, Leaflet JS, OpenStreetMap
