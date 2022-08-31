@@ -1,30 +1,24 @@
 ---
-title: "Artwork Design"
+title: "Cryptocurrency Trading Platform - CCTP"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design","development"]
-description: "This is meta description."
+image: "images/portfolio/CCTP.jpg"
+client: "Upwork"
+project_url : "https://github.com/progami/CCTP"
+categories: ["Python", "Cloud", "DevOps", "Containers"]
+description: "Intelligent NLP-based high-frequency trading desktop application utilizing Binance API "
 draft: false
 ---
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+- Design an Intelligent NLP-based high-frequency trading desktop application utilizing Binance API 
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+- Fully object-oriented platform with up to 10,000 microtransactions/minute via Binance API
+- Custom algorithm with a 59% profit ratio, utilizing sentiment analysis and technical analysis
+- Sentiment analysis via NLP/N-grams, Technical analysis via SMA/EMA/Bollinger bands
+- Coded in Python, Machine learning model trained via GCP
+- Deployed to windows hosts via docker
+- Skills: Python, GCP, Binance API, NLP, Docker

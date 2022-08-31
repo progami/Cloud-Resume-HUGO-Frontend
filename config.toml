@@ -50,7 +50,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "" # fix this --- TODO
 # theme color
 theme_color = "#0076BF"
 # contact info
@@ -97,11 +97,11 @@ expire_days = 1
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/jarrar.amjad.1"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
+URL = ""
 
 [[params.social]]
 icon = "ti-dribbble"
@@ -109,4 +109,4 @@ URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/jarrar_jerry"

@@ -1,4 +1,4 @@
-# Hugo static website based on Korss-Hugo theme for jarraroptimized.com
+# Hugo static website based on Kross-Hugo theme for jarraroptimized.com
 
 ## Under progress
 
