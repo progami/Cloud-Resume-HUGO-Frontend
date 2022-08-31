@@ -31,10 +31,10 @@ URL = "about/"
 name = "About"
 weight = 1
 
-[[menu.main]]
-URL = "blog/"
-name = "Blog"
-weight = 2
+# [[menu.main]]
+# URL = "blog/"
+# name = "Blog"
+# weight = 2
 
 [[menu.main]]
 URL = "portfolio/"
@@ -59,7 +59,7 @@ email = "jarraramjad@gmail.com"
 address = "F-10, Islamabad, Pakistan"
 # meta description
 author = "Jarrar Amjad"
-description = "This is meta description"
+description = "AWS. DevOps. Python"
 # google analytics
 google_analytics_id = "" # Your ID
 # baidu site verification
@@ -100,12 +100,8 @@ icon = "ti-facebook"
 URL = "https://www.facebook.com/jarrar.amjad.1"
 
 [[params.social]]
-icon = "ti-instagram"
-URL = ""
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/jarrar-amjad/"
 
 [[params.social]]
 icon = "ti-twitter-alt"

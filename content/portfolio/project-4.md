@@ -2,7 +2,7 @@
 title: "Advertisement Classification Based on Google Inception V3"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/inceptionv3.png"
-client: "John Doe"
+client: ""
 project_url : "https://www.youtube.com/watch?v=b90z57nqR8A&ab_channel=JarrarAmjad"
 categories: ["Machine Learning", "Cloud"]
 description: "Advertisement Classification Based on Google Inception V3"

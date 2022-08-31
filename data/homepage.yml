@@ -5,9 +5,9 @@ banner:
 # about
 about:
   enable : true
-  content : "I design and write about simple scalable processes utilizing DevOps methodlogies"
+  content : "I design and write about simple scalable processes utilizing DevOps methodlogies across multiple feilds from machine learning to web development"
   button:
-    enable : true
+    enable : false # fix this later
     label : "know more"
     URL : "about"
 
@@ -123,45 +123,61 @@ testimonial:
       image : "images/testimonial/gul.jpeg"
       designation : "MS CS Student at UFL | ex IBM Data Scientist - Data Engineer | GCP Microsoft Certified"
       content : "We collaborated together to architect and deliver the AI driven Crypto Currency Trading Bot.
-      I found Jarrar to be diligent, going deep into problems while being industrious enough to always deliver ahead of deadlines.
-      The balance is something I myself struggle with but Jarrar has proven himself to be most reliable."
+                I found Jarrar to be diligent, going deep into problems while being industrious enough to always deliver ahead of deadlines.
+                The balance is something I myself struggle with but Jarrar has proven himself to be most reliable."
       
 # client logo slider
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
+    - logo : "images/clients-logo/Ansible.svg"
       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
+    - logo : "images/clients-logo/GIT.svg"
       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
+    - logo : "images/clients-logo/Jenkins.svg"
       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
+    - logo : "images/clients-logo/KubernetesLogo.svg"
       URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
+
+    - logo : "images/clients-logo/TF.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/Python.svg"
       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
+    - logo : "images/clients-logo/GoLogo.svg"
       URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
+
+    - logo : "images/clients-logo/TravisCI.svg"
       URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+
+    - logo : "images/clients-logo/GCP.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/Cloudtrail.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/Cloudwatch.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/ElasticSearch.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/LogStash.svg"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/Kibana.svg"
+      URL : "http://examplesite.com"
+
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder

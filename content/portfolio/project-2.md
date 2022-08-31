@@ -1,5 +1,5 @@
 ---
-title: "Forrest Brazeal's Cloud Resume Challenge"
+title: "Forrest Brazeal's Cloud Resume Challenge - This website!"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/CRC-CF.png"
 client: "Upwork"
@@ -11,7 +11,7 @@ draft: false
 
 #### Project Requirements
 
-Design an AWS-based full-stack serverless website
+Design an AWS-based full-stack serverless website - This website!
 
 #### Project Details
 
