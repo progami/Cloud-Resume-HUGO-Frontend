@@ -157,7 +157,7 @@ clients_logo_slider:
     - logo : "images/clients-logo/GCP.svg"
       URL : "http://examplesite.com"
 
-    - logo : "images/clients-logo/"
+    - logo : "images/clients-logo/Vector.svg"
       URL : "http://examplesite.com"
 
     - logo : "images/clients-logo/Cloudtrail.svg"
