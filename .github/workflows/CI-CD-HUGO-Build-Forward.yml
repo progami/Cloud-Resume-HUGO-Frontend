@@ -27,8 +27,9 @@ jobs:
           personal_token: ${{ secrets.REPO_TOKEN }}
           external_repository: progami/Cloud-Resume-Challenge-AWS
           publish_dir: ./public
-          #   keep_files: true
+          keep_files: true
           user_name: progami # secret this --> TODO
           user_email: jarraramjad@gmail.com # secret this --> TODO
           publish_branch: main
+          destination_dir: resume-site
         #   cname: example.com
