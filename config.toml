@@ -27,7 +27,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/map.js"
 
 [[menu.main]]
-URL = "about/"
+URL = "about/index.html"
 name = "About"
 weight = 1
 
@@ -37,12 +37,12 @@ weight = 1
 # weight = 2
 
 [[menu.main]]
-URL = "portfolio/"
+URL = "portfolio/index.html"
 name = "Portfolio"
 weight = 3
 
 [[menu.main]]
-URL = "contact/"
+URL = "contact/index.html"
 name = "Contact"
 weight = 4
 
