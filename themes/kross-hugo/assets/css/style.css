@@ -167,15 +167,17 @@ body {
   justify-content: center
 }
 
-.ti-icons-left{
-  font-size: 30px;
 
-}
 
 ol,
 ul {
   list-style-type: none;
   margin: 0
+}
+
+.ti-icons-left{
+  font-size: 60px;
+
 }
 
 img {
