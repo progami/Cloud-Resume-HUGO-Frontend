@@ -167,6 +167,11 @@ body {
   justify-content: center
 }
 
+.ti-icons-left{
+  font-size: 30px;
+
+}
+
 ol,
 ul {
   list-style-type: none;
