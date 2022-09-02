@@ -106,3 +106,7 @@ URL = "https://www.linkedin.com/in/jarrar-amjad/"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "https://twitter.com/jarrar_jerry"
+
+[[params.social]]
+icon = "ti-github"
+URL = "https://github.com/progami"
